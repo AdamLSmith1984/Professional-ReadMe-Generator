@@ -54,7 +54,7 @@ function generateMarkdown(data) {
   - [instructions](#instructions)
   - [contributing](#contributing)
   ## github:
-  ${data.gitHub}
+  ${data.github}
   ## email:
   ${data.email}
   ## project:
