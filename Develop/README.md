@@ -1,4 +1,4 @@
-# Adam's professional ReadMe generator
+# Prof Readme
   ## License:
   
   [![license](https://img.shields.io/badge/license--blue.svg)](https://shields.io/)
@@ -12,13 +12,13 @@
   - [instructions](#instructions)
   - [contributing](#contributing)
   ## github:
-  AdamLSmith1984
+  AdamMe
   ## email:
-  Nice.Try@hotmail.com
+  Nice.Try
   ## project:
-  Professional ReadMe generator
+  Professional ReadMe
   ## Description:
-  The greatest ReadMe generator on Earth
+  Writes a ReadMe
   ## License: 
  Look for the project under 
   
@@ -29,8 +29,8 @@
   ## instructions:
   nothing
   ## contributing:
-  Contact me
+  contact me
   
   ## Contact information:
-  - Github: [AdamLSmith1984](https://github.com/AdamLSmith1984)
-  - Email: [Nice.Try@hotmail.com](mailto:user@example.com)
+  - Github: [AdamMe](https://github.com/AdamMe)
+  - Email: [Nice.Try](mailto:user@example.com)
